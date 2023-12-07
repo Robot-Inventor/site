@@ -35,7 +35,7 @@
     "ts-node": "^10.8.2"
   },
   "devDependencies": {
-    "@types/html-minifier": "4.0.2",
+    "@types/html-minifier": "4.0.5",
     "@types/jsdom": "20.0.1",
     "@types/marked": "4.0.8",
     "@types/sharp": "0.31.0"
